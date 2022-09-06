@@ -84,7 +84,7 @@ int APIENTRY WinMain(HINSTANCE hInstance,
 
 			// •`‰æ
 			sceneMng->Draw();
-			tex->Draw();
+			//tex->Draw();
 
 			DirectGraphics::GetInstance()->FinishRendering();
 
